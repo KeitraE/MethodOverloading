@@ -1,0 +1,4 @@
+C:\Users\Lakeitra Coleman\source\repos\MethodOverloading\MethodOverloading\obj\Debug\net6.0-windows\MethodOverloading.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lakeitra Coleman\source\repos\MethodOverloading\MethodOverloading\obj\Debug\net6.0-windows\MethodOverloading.AssemblyInfoInputs.cache
+C:\Users\Lakeitra Coleman\source\repos\MethodOverloading\MethodOverloading\obj\Debug\net6.0-windows\MethodOverloading.AssemblyInfo.cs
+C:\Users\Lakeitra Coleman\source\repos\MethodOverloading\MethodOverloading\obj\Debug\net6.0-windows\MethodOverloading.csproj.CoreCompileInputs.cache
